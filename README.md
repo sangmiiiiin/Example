@@ -47,8 +47,30 @@ push<br><br>pull<br><br>원격저장소<br><br><br>pull
 
 2.오리진만들기
 
-## 6. ㅅ순서없느 목럭 만들기
+## 5. ㅅ순서없느 목럭 만들기
 -원격 저장소
 -push,pull
 -협업하기
+
+
+## 6. 텍스트꾸미기
+**GITHUB**는 *원격저장소*를 제공하는 ~서비스~이기 때문에
+온라인 상에서GIT의 ***버전관리 기능*** 사용할 수 있습니다.
+
+## 7.소스코드
+
+```
+  <script>
+  let a=10;
+  let b=20;
+  </script>
+```
+
+## 8.링크 주소
+<http://www.multicapus.com>
+
+[멀티캠퍼스](http://www.multicapus.com)
+
+[멀티캠퍼스](http://www.multicapus.com "클릭 하면 멀티캠퍼스 홈페이지로 이동합니다.")
+
 
