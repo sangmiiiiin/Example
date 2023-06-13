@@ -47,9 +47,9 @@ push<br><br>pull<br><br>원격저장소<br><br><br>pull
 
 2.오리진만들기
 
-## 5. ㅅ순서없느 목럭 만들기
+## 5. 순서가없는 목록 만들기
 -원격 저장소
--push,pull
+  -push,pull (탭ㅋ 누르면 속 비어있는 동글뱅이)
 -협업하기
 
 
@@ -75,7 +75,7 @@ push<br><br>pull<br><br>원격저장소<br><br><br>pull
 
 ## 9.이미지 넣기
 
-![펭수이미지](./top.jpg)
+[![펭수이미지](./top.jpg)](http://www.multicapus.com)
 
 
 
