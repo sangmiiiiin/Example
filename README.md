@@ -31,7 +31,7 @@ pull
 
 push<br><br>pull<br><br>원격저장소<br><br><br>pull
 
-## 4. 순서목로
+## 4. 순서목록
 1.원격 저장소 만들기
 
 2.origin 연결하기
