@@ -57,6 +57,8 @@
 <br>
 [네이버 메인화면] (http://www.naver.com, "네이버로 들어간다")
 
+[펭수](./top.jpg)(http://www.naver.com)
+
 
 
 
